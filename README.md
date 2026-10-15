@@ -29,3 +29,6 @@ Import the CSVs into Power BI to build an interactive dashboard with DAX measure
 
 ## Tools
 SQL (SQLite), Excel (SUMIFS, charts), Python (Pandas, Matplotlib) for data generation and the preview.
+
+
+![Dashboard preview](dashboard_preview.png)
